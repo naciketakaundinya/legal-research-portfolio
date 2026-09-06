@@ -59,5 +59,14 @@ Judicial Review is one of the most important mechanisms for maintaining constitu
 ## Research Note
 
 This project is prepared as part of my academic legal research portfolio as a BBA LL.B. (Hons.) student.
+## References / Sources
+
+1. Constitution of India – Articles 13, 32, 226, 245 and 246.
+2. Kesavananda Bharati v. State of Kerala (1973).
+3. Indira Nehru Gandhi v. Raj Narain (1975).
+4. Minerva Mills Ltd. v. Union of India (1980).
+5. L. Chandra Kumar v. Union of India (1997).
+6. Supreme Court of India – Official Judgments and Constitutional Resources.
+7. India Code – Constitution of India.
 
 **Author:** NACIKETA KAUNDINYA
