@@ -4,8 +4,7 @@
 
 Corporate and Business Law regulates the formation, management, operation and dissolution of business organisations. In India, company law provides the legal framework for companies and governs the rights and responsibilities of directors, shareholders and other stakeholders.
 
-The Companies Act, 2013 is one of the principal legislations governing companies in India.
-
+The Companies Act, 2013 is one of the principal laws governing companies in India.
 ## Key Areas of Corporate Law
 
 - Company Formation and Incorporation
@@ -71,7 +70,7 @@ Important duties include:
 
 ## Corporate Social Responsibility
 
-Corporate Social Responsibility (CSR) reflects the responsibility of eligible companies to contribute towards social and environmental objectives in accordance with applicable law.
+Corporate Social Responsibility (CSR) reflects the responsibility of qualifying companies to contribute towards social and environmental objectives in accordance with applicable law.
 
 CSR activities may include areas such as:
 
@@ -123,6 +122,15 @@ Corporate and Business Law provides the legal foundation for modern commercial a
 
 For a BBA LL.B. student, understanding corporate law is essential for analysing business structures, corporate governance, commercial transactions and regulatory compliance.
 
+## References / Sources
+
+1. Companies Act, 2013 – Ministry of Corporate Affairs, Government of India.
+2. Insolvency and Bankruptcy Code, 2016 – India Code.
+3. Salomon v. A. Salomon & Co. Ltd. (1897).
+4. Tata Consultancy Services Ltd. v. State of Andhra Pradesh (2004).
+5. Vodafone International Holdings B.V. v. Union of India (2012).
+6. Ministry of Corporate Affairs – Official Corporate Law Resources.
+7. India Code – Central Acts and Legislation.
 ## Research Note
 
 This project is prepared as part of my academic legal research portfolio as a BBA LL.B. (Hons.) student.
