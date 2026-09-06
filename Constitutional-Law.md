@@ -36,7 +36,7 @@ The major Fundamental Rights include:
 - **Article 21** – Protection of life and personal liberty.
 - **Article 32** – Right to approach the Supreme Court for enforcement of Fundamental Rights.
 - **Article 226** – Power of High Courts to issue writs.
-- **Article 368** – Power and procedure for constitutional amendment.
+- **Article 368** – Article 368 – Power of Parliament to amend the Constitution and procedure for constitutional amendment.
 
 ## Judicial Review
 
@@ -75,7 +75,16 @@ Constitutional Law ensures that:
 ## Conclusion
 
 Constitutional Law forms the foundation of India's legal and political system. It balances governmental authority with individual rights and ensures that all public institutions function within constitutional boundaries.
+## References / Sources
 
+1. Constitution of India – Articles 14, 19, 21, 32, 226 and 368.
+2. Kesavananda Bharati v. State of Kerala (1973).
+3. Maneka Gandhi v. Union of India (1978).
+4. Minerva Mills Ltd. v. Union of India (1980).
+5. S.R. Bommai v. Union of India (1994).
+6. Supreme Court of India – Official Judgments and Constitutional Resources.
+7. India Code – Constitution of India.
+   
 ## Research Note
 
 This project is prepared as part of my academic legal research portfolio as a BBA LL.B. (Hons.) student.
