@@ -141,6 +141,16 @@ Business and Management provides an essential foundation for understanding how o
 
 For a BBA LL.B. (Hons.) student, combining business knowledge with legal knowledge can be valuable in areas such as corporate law, compliance, contracts, management and commercial practice.
 
+## References / Sources
+
+1. Business Management – Principles and Functions of Management.
+2. Companies Act, 2013 – Ministry of Corporate Affairs, Government of India.
+3. India Code – Central Acts and Legislation.
+4. Securities and Exchange Board of India – Corporate Governance Resources.
+5. Ministry of Corporate Affairs – Corporate Governance and Business Regulations.
+6. Reserve Bank of India – Banking and Financial Management Resources.
+7. Government of India – Business and Economic Policy Resources.
+
 ## Research Note
 
 This project is prepared as part of my academic legal research portfolio as a BBA LL.B. (Hons.) student.
