@@ -96,6 +96,16 @@ LegalTech is becoming an important part of India's evolving legal ecosystem. Tec
 
 For a BBA LL.B. (Hons.) student, understanding LegalTech provides valuable knowledge at the intersection of law, business, and technology.
 
+## References / Sources
+
+1. Ministry of Law and Justice, Government of India – Digital Legal and Justice Initiatives.
+2. eCourts Services – Official Digital Court Services in India.
+3. India Code – Digital Repository of Central Acts and Legislation.
+4. Supreme Court of India – Official Digital Court and Judicial Resources.
+5. Information Technology Act, 2000.
+6. Digital Personal Data Protection Act, 2023.
+7. Bar Council of India – Professional and Ethical Standards for Legal Practice.
+   
 ## Research Note
 
 This project is prepared as part of my academic legal research portfolio as a BBA LL.B. (Hons.) student.
