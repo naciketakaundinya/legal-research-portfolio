@@ -15,7 +15,13 @@ Welcome to my legal research and academic portfolio.
 ## 📚 Portfolio
 
 This repository will contain my academic projects, legal research, case-law analysis, and other relevant work developed during my BBA LL.B. (Hons.) journey.
+## 📑 Research Projects
 
+- [Judicial Review in India](Legal-Research/judicial-review-india.md)
+- [Constitutional Law in India](Constitutional-Law.md)
+- [Corporate & Business Law in India](Corporate-Business-Law.md)
+- [LegalTech in India](LegalTech.md)
+- [Business & Management in India](Business-Management.md)
 ## 🎓 Education
 
 **BBA LL.B. (Hons.)**
